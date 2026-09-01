@@ -2,10 +2,7 @@
 
 I build **scalable distributed systems, microservices and high-performance APIs**.
 Eleven years shipping backends, four companies, Node and TypeScript throughout.
-Currently Senior Backend Engineer at **[Kolecto](https://www.kolecto.fr/)**, near Paris —
-building an invoicing service (quotes, invoices, customer and product catalogs with
-accounting-ready exports), working on readiness for the French e-invoicing reform,
-and migrating a serverless monolith toward dedicated services.
+Currently Senior Backend Engineer at **[Kolecto](https://www.kolecto.fr/)**, near Paris.
 
 ### Selected work
 
