@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Jérémy Petit — Back-end engineer">
+  <defs>
+    <radialGradient id="lime" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#c8f751" stop-opacity="0.55"/>
+      <stop offset="68%" stop-color="#c8f751" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="teal" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.5"/>
+      <stop offset="68%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blue" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#556ee6" stop-opacity="0.45"/>
+      <stop offset="68%" stop-color="#556ee6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c8f751" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c8f751" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="320"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="#0a0a0b"/>
+    <g filter="url(#soft)">
+      <circle cx="120" cy="40"  r="230" fill="url(#lime)"/>
+      <circle cx="1080" cy="120" r="210" fill="url(#teal)"/>
+      <circle cx="640" cy="330" r="200" fill="url(#blue)"/>
+    </g>
+
+    <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+      <text x="80" y="146" fill="#f4f4f0" font-size="72" font-weight="700" letter-spacing="-2">Jérémy Petit</text>
+      <rect x="82" y="176" width="300" height="2" fill="url(#rule)"/>
+      <text x="80" y="222" fill="#c8f751" font-size="21" font-weight="600" letter-spacing="3">BACK-END ENGINEER</text>
+      <text x="80" y="258" fill="#9a9a92" font-size="19" font-weight="400">APIs, queues and the plumbing behind them · Paris</text>
+    </g>
+  </g>
+</svg>
