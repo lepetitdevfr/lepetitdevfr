@@ -33,8 +33,8 @@
     <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
       <text x="80" y="146" fill="#f4f4f0" font-size="72" font-weight="700" letter-spacing="-2">Jérémy Petit</text>
       <rect x="82" y="176" width="300" height="2" fill="url(#rule)"/>
-      <text x="80" y="222" fill="#c8f751" font-size="21" font-weight="600" letter-spacing="3">BACK-END ENGINEER</text>
-      <text x="80" y="258" fill="#9a9a92" font-size="19" font-weight="400">APIs, queues and the plumbing behind them · Paris</text>
+      <text x="80" y="222" fill="#c8f751" font-size="21" font-weight="600" letter-spacing="3">SENIOR BACKEND ENGINEER</text>
+      <text x="80" y="258" fill="#9a9a92" font-size="19" font-weight="400">Scalable distributed systems, microservices and high-performance APIs</text>
     </g>
   </g>
 </svg>
