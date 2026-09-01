@@ -7,15 +7,6 @@ building an invoicing service (quotes, invoices, customer and product catalogs w
 accounting-ready exports), working on readiness for the French e-invoicing reform,
 and migrating a serverless monolith toward dedicated services.
 
-### Experience
-
-| | | |
-|---|---|---|
-| **2024 — now** | **[Kolecto](https://www.kolecto.fr/)** | Senior Backend Engineer — invoicing service, e-invoicing reform, serverless monolith → services |
-| **2022 — 2023** | **[Yubo](https://www.yubo.live/fr)** | Senior Backend Engineer — Node.js backend for 1M daily active users; PostgreSQL, Couchbase and MongoDB migrations |
-| **2018 — 2022** | **[Sewan](https://www.sewan.fr/fr-fr/)** | Back End Engineer — Node.js microservices and the public GraphQL API, international team of 10+ |
-| **2015 — 2018** | **[Orange](https://hellofuture.orange.com/fr/)** | R&D Developer, Fullstack JS — patented workstation-virtualization project |
-
 ### Selected work
 
 | | |
