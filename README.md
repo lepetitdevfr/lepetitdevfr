@@ -8,7 +8,7 @@ Currently back-end engineer at **[Kolecto](https://www.kolecto.fr/)**, near Pari
 
 | | |
 |---|---|
-| **[quarry](https://github.com/lepetitdevfr/quarry)** | A PostgreSQL client that gets out of your way |
+| **[quarry](https://github.com/lepetitdevfr/quarry-releases)** | A fast, keyboard-first PostgreSQL client for macOS — Tauri, Rust and React |
 | **[lepetitdev.fr](https://lepetitdev.fr)** | Portfolio — React + Vite, with a printable EN/FR CV |
 
 ### Tech
